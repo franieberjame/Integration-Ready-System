@@ -40,3 +40,11 @@ Instruction for Integration:
 Sample Integration
 ![image](https://github.com/franieberjame/Integration-Ready-System/assets/147252157/995d6306-727c-46c1-b541-7d08056c6fe5)
 
+# API Integration
+This website is already integrated with PayPal. Through PayPal payment gateway, this website is integrated and can accept payment online. However, this is still needed an update and further configuration; Because It has not undergone testing with live account transactions, and I encountered an issue retrieving transaction information with PayPal. Thus, the PayPal payment integration can be done using SandBox testing account.
+
+For transaction testing with Paypal, use this credentials:
+
+username: sb-xwlrt29377643@personal.example.com
+
+password: berjame123
