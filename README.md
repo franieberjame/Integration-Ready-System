@@ -48,3 +48,7 @@ For transaction testing with Paypal, use this credentials:
 username: sb-xwlrt29377643@personal.example.com
 
 password: berjame123
+
+
+Video Presentation link:
+https://youtu.be/luVtMlG71gQ
